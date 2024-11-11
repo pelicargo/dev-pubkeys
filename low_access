@@ -1,0 +1,2 @@
+# This is for keys that should have lower access to servers
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBCJ2CYLod8HAYHc65lYzNASTwBbarfOvpBCLuKV99EJfznHGVPYam/Okz4frtua0jk06g9SzNHOc8vPGLD/OMyc= pelicargo-sysops-key
